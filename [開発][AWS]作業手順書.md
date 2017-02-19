@@ -14,6 +14,8 @@
 > https://h.signin.aws.amazon.com/console へアクセスする
 > TMP-PU-01でAWSマネジメントコンソールへログインします。
 - [ ]　PU-01に権限をつける
+- [ ]　PU-02に権限をつける
+- [ ]　PU-03に権限をつける
 
 * TMP-PowerUsersグループのインラインポリシー「Policy-S3-PowerUsers」を更新する
 * Policy-S3-PowerUsersではなくTEMP PUのPolicy-S3-PowerUsers
