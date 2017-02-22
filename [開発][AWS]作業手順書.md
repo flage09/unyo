@@ -45,6 +45,8 @@
 >運用端末にてコマンドプロンプトを開く
 >以下コマンドを入力する
 
+AAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAA
 
 ```html:sample
 aws configure
